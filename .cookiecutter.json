@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Andy War",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "andy.war1965@gmail.com",
+  "friendly_name": "Hyperandy",
+  "github_user": "andywar65",
+  "license": "MIT",
+  "package_name": "hyperandy",
+  "project_name": "hyperandy",
+  "version": "0.0.0"
+}
